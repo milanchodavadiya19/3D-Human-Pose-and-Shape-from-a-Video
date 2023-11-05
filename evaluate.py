@@ -9,6 +9,7 @@ from pathlib import Path
 from tqdm import tqdm
 from collections import defaultdict
 
+
 from lib.core.config import BASE_DATA_DIR, parse_args
 from lib.data_utils._img_utils import split_into_chunks
 from lib.data_utils._kp_utils import convert_kps
