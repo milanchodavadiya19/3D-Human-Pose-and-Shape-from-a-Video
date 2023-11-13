@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+
 mkdir -p data
 cd data
 gdown "https://drive.google.com/uc?id=1WmSYmDWdMSXyNU6ZcFQVF8ULtR_S9L3b&export=download&confirm=t"
