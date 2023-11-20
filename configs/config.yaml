@@ -47,7 +47,6 @@ TRAIN:
       LAYERS: 3
       SIZE: 1024
       DROPOUT: 0.2
-    
 MODEL:
   TEMPORAL_TYPE: 'gru'
   TGRU:
