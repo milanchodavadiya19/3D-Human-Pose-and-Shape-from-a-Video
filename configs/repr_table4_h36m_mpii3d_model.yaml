@@ -33,6 +33,7 @@ TRAIN:
     - 'ThreeDPW'
     - 'MPII3D'
     - 'Human36M'
+
     
   DATASET_EVAL: 'ThreeDPW'
   GEN_LR: 0.00005
