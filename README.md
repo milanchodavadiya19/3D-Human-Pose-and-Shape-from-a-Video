@@ -4,6 +4,7 @@
 | ![aa](./asset/son.gif) | ![bb](./asset/teaser.gif) |
 
 
+
 ## News
 - Update 22.06.17: Now you can reproduce Table 6! No change on running commands. 
 - Update 22.06.06: [NeuralAnnot](https://arxiv.org/abs/2011.11232) SMPL annotations of [Human36M](http://vision.imar.ro/human3.6m/description.php) are released!
