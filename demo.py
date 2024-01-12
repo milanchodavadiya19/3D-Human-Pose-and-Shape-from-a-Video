@@ -14,7 +14,6 @@
 #
 # Contact: ps-license@tuebingen.mpg.de
 
-
 import os
 import os.path as osp
 import glob
